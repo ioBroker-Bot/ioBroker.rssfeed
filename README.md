@@ -1118,6 +1118,8 @@ Z7: Without output. This line closed the javascript loop . Everything that was d
 
 - initial release
 
+[Older changelogs can be found there](CHANGELOG_OLD.md)
+
 ## License
 
 MIT License
